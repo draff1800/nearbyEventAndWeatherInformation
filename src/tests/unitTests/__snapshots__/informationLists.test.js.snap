@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<InformationLists /> renders correctly 1`] = `
+<View>
+  <View>
+    <Text
+      style={
+        Object {
+          "backgroundColor": "transparent",
+          "color": "black",
+          "fontSize": 30,
+          "fontWeight": "bold",
+          "marginLeft": 10,
+          "marginTop": 5,
+          "position": "absolute",
+          "textAlign": "left",
+        }
+      }
+    >
+      Events
+    </Text>
+  </View>
+  <RCTScrollView
+    style={
+      Object {
+        "marginTop": 50,
+      }
+    }
+  >
+    <View />
+  </RCTScrollView>
+</View>
+`;
