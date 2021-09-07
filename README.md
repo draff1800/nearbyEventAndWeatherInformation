@@ -1,4 +1,4 @@
 # Nearby Event & Weather Information App
-An app that allows users to view cool events happening nearby, and their corresponding weather details - All at the click of a button or shake of your phone!
+Mobile app (Android) which shows nearby events and corresponding weather information, which is to the nearest 3-hour forecast. Shake device to alternate between events and their weather details.
 
 **Please Note: This code is OLD (2019/2020) and I have learned a lot since writing it.**
